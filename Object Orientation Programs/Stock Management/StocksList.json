@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "google",
+    "NumberOfShare": 96.0,
+    "SharePrice": 200.0
+  },
+  {
+    "StockName": "microsoft",
+    "NumberOfShare": 200.0,
+    "SharePrice": 300.0
+  },
+  {
+    "StockName": "dell",
+    "NumberOfShare": 299.0,
+    "SharePrice": 100.0
+  }
+]
